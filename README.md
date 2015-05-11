@@ -1,3 +1,3 @@
 # Repo for the following figure:
 
-<img src="figs/bootstrap_tree.png", width=500px"/>
+<img src="figs/bootstrap_tree.png", width="500">
