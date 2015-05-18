@@ -160,8 +160,8 @@ Crenarchaeota,cyan,gi|503067891|ref|WP_013302863.1|
 Crenarchaeota,cyan,gi|157920785|gb|ABW02212.1|
 Crenarchaeota,cyan,gi|497676516|ref|WP_009990700.1|
 Crenarchaeota,cyan,gi|502110730|ref|WP_012712265.1|
-Thermotogae,lightyellow,gi|147735174|gb|ABQ46514.1|
-Thermotogae,lightyellow,gi|281374209|gb|ADA67771.1|
+Thermotogae,"#26d6Cf",gi|147735174|gb|ABQ46514.1|
+Thermotogae,"#26d6Cf",gi|281374209|gb|ADA67771.1|
 Arthropoda,seagreen,gi|24655438|ref|NP_725851.1|
 Chordata,red,gi|3549609|gb|AAC34593.1|
 Chordata,red,gi|268834192|ref|NP_000172.2|
