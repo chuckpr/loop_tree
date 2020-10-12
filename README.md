@@ -2,4 +2,4 @@
 
 [Download figure](figs/bootstrap_tree.svg)
 
-<img src="figs/bootstrap_tree.png", width="800">
+<img src="./figs/bootstrap_tree.png" width="800"/>
